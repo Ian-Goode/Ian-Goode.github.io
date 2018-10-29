@@ -1,5 +1,5 @@
 # SITE CONFIGURATION
-baseurl: "/Natural-Intelligence"
+baseurl: ""
 url: "https://ian-goode.github.io"
 title: Natural Intelligence # site's title
 description: "My blog posts" # used by search engines
